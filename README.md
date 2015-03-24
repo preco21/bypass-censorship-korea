@@ -15,12 +15,12 @@
 
 [유용한 소프트웨어 및 참고 링크]
 ```
-Psiphon Proxy: [http://psiphon3.com/](http://psiphon3.com/)
-Tor: [https://www.torproject.org/](https://www.torproject.org/)
-Google mobile proxy: [http://www.google.co.jp/gwt/n](http://www.google.co.jp/gwt/n)
-Google translator: [https://translate.google.com/](https://translate.google.com/)
-Spotflux: [https://www.spotflux.com/](https://www.spotflux.com/)
-HideMe: [https://hide.me/en/proxy](https://hide.me/en/proxy)
-Webproxy: [http://www.webproxy.net/](http://www.webproxy.net/)
-Hide my ass: [https://www.hidemyass.com/](https://www.hidemyass.com/)
+Psiphon Proxy: [http://psiphon3.com/]
+Tor: [https://www.torproject.org/]
+Google mobile proxy: [http://www.google.co.jp/gwt/n]
+Google translator: [https://translate.google.com/]
+Spotflux: [https://www.spotflux.com/]
+HideMe: [https://hide.me/en/proxy]
+Webproxy: [http://www.webproxy.net/]
+Hide my ass: [https://www.hidemyass.com/]
 ```
