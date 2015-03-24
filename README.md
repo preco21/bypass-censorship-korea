@@ -13,7 +13,7 @@
 | HTTPS: HTTPS를 지원하는 사이트라면 HTTPS로 접속
 ```
 
-[실질적인 유용한 소프트웨어]
+[유용한 소프트웨어 및 참고 링크]
 ```
 Psiphon Proxy: [http://psiphon3.com/](http://psiphon3.com/)
 Tor: [https://www.torproject.org/](https://www.torproject.org/)
