@@ -1,7 +1,7 @@
 ﻿# bypass-internet-censorship
 한국에서 인터넷 검열을 피하는 몇가지 방법과 node.js 기반 엔진 코드를 포함하고 있습니다
 
-[Bypass method]
+## Bypass method
 ```
 | Dummy host: 헤더의 Host부분을 이상한 주소나 아이피를 대신 삽입하여 필터링 하지 못하도록 함
 | Dummy header: 헤더에 의미없는 공백을 삽입하여 HTTP프로토콜임을 인식하지 못하게 함 (2015/3/11 KT 패치 확인)
@@ -13,7 +13,7 @@
 | HTTPS: HTTPS를 지원하는 사이트라면 HTTPS로 접속
 ```
 
-[유용한 소프트웨어 및 참고 링크]
+##유용한 소프트웨어 및 참고 링크
 ```
 Psiphon Proxy: [http://psiphon3.com/]
 Tor: [https://www.torproject.org/]
