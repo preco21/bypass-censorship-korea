@@ -28,3 +28,7 @@
 * [Webproxy](http://www.webproxy.net/)
 * [Hide my ass](https://www.hidemyass.com/)
 * [DodgeChrome](http://dodgechrome.blogspot.kr/)
+
+## License
+
+Public Domain
