@@ -44,8 +44,6 @@ client.on("data", function(data)
 	*/
 });
 
-// 파싱 필요 / 파싱 후 END를 확인 -> end호출
-
 client.on("end", function()
 {
 	console.log("END2");
