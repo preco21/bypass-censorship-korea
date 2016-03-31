@@ -1,0 +1,15 @@
+{
+  "name": "bypass-censorship-korea",
+  "version": "0.0.1",
+  "description": "한국에서 시대를 역행하는 `warning.or.kr`을 피하는 방법과 `node.js` 기반 코드",
+  "author": "Plusb Preco <plusb21@gmail.com>",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preco21/bypass-censorship-korea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/preco21/bypass-censorship-korea/issues"
+  },
+  "homepage": "https://github.com/preco21/bypass-censorship-korea#readme"
+}
