@@ -52,4 +52,4 @@
 
 ## License
 
-Public Domain
+Unlicense
