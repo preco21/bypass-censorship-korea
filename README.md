@@ -29,14 +29,14 @@
 * [Dot VPN](https://chrome.google.com/webstore/detail/dotvpn-%E2%80%94-better-than-vpn/kpiecbcckbofpmkkkdibbllpinceiihk)
 * [Sitenable](https://sitenable.com/)
 * [HideMe](https://hide.me/en/proxy)
-* [Hide my ass](https://www.hidemyass.com/)
+* [Hide My Ass](https://www.hidemyass.com/)
 
 ### 편법
 
 * [Chrome Data Saver](https://chrome.google.com/webstore/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac)
 * [DodgeChrome](http://dodgechrome.blogspot.kr/)
-* [Google mobile proxy](http://www.google.co.jp/gwt/n)
-* [Google translator](https://translate.google.com/)
+* [Google Mobile Proxy](http://www.google.co.jp/gwt/n)
+* [Google Translator](https://translate.google.com/)
 
 ### 레퍼런스
 
