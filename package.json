@@ -4,6 +4,7 @@
   "description": "한국에서 시대를 역행하는 `warning.or.kr`을 피하는 방법과 `Node.js` 기반 코드",
   "author": "Plusb Preco <plusb21@gmail.com>",
   "private": true,
+  "license": "Unlicense",
   "homepage": "https://github.com/preco21/bypass-censorship-korea#readme",
   "repository": "preco21/bypass-censorship-korea",
   "bugs": {
